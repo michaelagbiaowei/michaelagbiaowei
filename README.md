@@ -1,8 +1,3 @@
-[vino map gif](https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif)
-
-<img align= "right" alt="Coding" width="400" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif">
-
-
 ## Hi there 👋, I am Michael
 
 #### Cloud DevSecOps Engineer
@@ -11,6 +6,8 @@ I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I really enjoy l
 
 I also enjoy Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools Terraform in general.
 Furthermore, I am passionate about CI/CD Build tools like Jenkins
+
+<img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif">
 
 - 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
 - 🌱 I’m currently learning Containerization with Docker 
