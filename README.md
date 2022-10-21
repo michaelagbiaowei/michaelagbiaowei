@@ -26,7 +26,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei)  
+> <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei)  
 
