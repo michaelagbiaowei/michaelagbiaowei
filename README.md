@@ -42,7 +42,7 @@ Name | Badges
 **Infrastructure Provisiong** | ![Terraform](https://img.shields.io/badge/Terraform-%23430098.svg?style=for-the-badge&logo=terraform&logoColor=white)
 **CI/CD Build Tools**   | ![Jenkins](https://img.shields.io/badge/Jekins-fff?style=for-the-badge&logo=jekins&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 **Monitoring and Logging**   | ![Zabbix](https://img.shields.io/badge/Zabbix-ff0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fff?style=for-the-badge&logo=elasticsearch&logoColor=black) 
-**Cloud Services** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-%23FF9900.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+**Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-fff?style=for-the-badge&logo=Google%20Cloud&logoColor=black) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230175C2.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
 </p> 
 
