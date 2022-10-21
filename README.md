@@ -33,7 +33,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 Name | Badges
 --- | --- 
-**Languages** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white)
+**Languages** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML&logoColor=white) ![JavaScript](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoColor=white)
 </p> 
 
 <hr>
