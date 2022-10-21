@@ -2,10 +2,15 @@
 
 #### Cloud DevSecOps Engineer
 
-I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I really enjoy learning DevOps Configuration Management tools like Ansible, Chef and Puppet as well as Salt Stack.
+I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enthusiastic about Cloud Computing and Security.
 
-I also enjoy Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools Terraform in general.
-Furthermore, I am passionate about CI/CD Build tools like Jenkins
+I really enjoy learning DevOps Configuration Management tools like Ansible.
+
+In addition, I also love Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools Terraform in general.
+
+Furthermore, I am passionate about CI/CD Build tools like Jenkins.
+
+
 
 <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif">
 
@@ -13,8 +18,8 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 - 🌱 I’m currently learning Containerization with Docker 
 - 👯 I’m looking to collaborate on CI/CD 
 - 🤔 I’m looking for help with Database Setup and Configuration 
-- 💬 Ask me about Configuration Management, Cloud Security and Infrastructure Provisioning 
-- 📫 How to reach me: michaelagbia1990@outlook.com 
+- 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Logging and Monitoring
+- 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
 - ⚡ Fun fact: I am a Student of Altschool Africa and also ALX
 
