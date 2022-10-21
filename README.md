@@ -34,7 +34,8 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins.
 
 <hr>
 <br>
-#### 🛠 Cloud DevSecOps Computing Tools
+
+### 🛠 Cloud DevSecOps Computing Tools
 
 Name | Badges
 --- | --- 
