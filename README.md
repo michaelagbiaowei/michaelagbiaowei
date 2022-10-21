@@ -28,12 +28,19 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 <hr>
 <br>
-
-### 🛠 Tools and Cloud Services
+### 🛠 Tools and Framework
 
 Name | Badges
 --- | --- 
-**Languages** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML&logoColor=white) ![JavaScript](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoColor=white)
+
+**Languages**  |  ![Python](https://img.shields.io/badge/Python-%230175C2.svg?style=for-the-badge&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Operating Systems** |  ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux-aws&logoColor=white) <img src="https://img.shields.io/badge/Windows-1572B6?style=for-the-badge&logo=windos&logoColor=white" />
+**Databases**  |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Web Servers** |  ![Apache2](https://img.shields.io/badge/apache2-%23F24E1E.svg?style=for-the-badge&logo=apache2&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%234ea94b.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**Configuration Management** | ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible&logoColor=white)
+**Containers and Containeriztion** | ![Docker](https://img.shields.io/badge/docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%230175C2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Infrastructure Provisiong** | ![Terraform](https://img.shields.io/badge/Terraform-%23430098.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**CI/CD Build Tools**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </p> 
 
 <hr>
