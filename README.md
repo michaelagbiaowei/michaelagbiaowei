@@ -1,5 +1,7 @@
 <center> Hi there 👋, my name is Michael </center>
+
 #### Cloud DevSecOps
+
 I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I really enjoy learning DevOps Configuration Management tools like Ansible, Chef and Puppet as well as Salt Stack.
 
 I also enjoy Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools Terraform in general.
