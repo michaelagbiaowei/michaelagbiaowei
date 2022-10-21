@@ -1,4 +1,7 @@
-![vino map gif](https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif)
+[vino map gif](https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif)
+
+<img align= "right" alt="Coding" width="400" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif">
+
 
 ## Hi there 👋, I am Michael
 
