@@ -91,7 +91,6 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="Tolulope05" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
 > <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
