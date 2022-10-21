@@ -19,8 +19,18 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 - ⚡ Fun fact: I am a Student of Altschool Africa and also ALX
 
 
+
+
+![Figma](https://img.shields.io/badge/docker-%23F24E1E.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white
+
+
+
+
  ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmichaelagbiaow2)](https://twitter.com/michaelagbiaow2)
 
 
@@ -30,8 +40,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=michaelagbiaowei)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr>
 
 ### 👔 Soft skills
 
@@ -40,8 +49,6 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 ✅ Leadership
 
 ✅ Teamwork
-
-✅ Meet tight deadlines
 
 
 
