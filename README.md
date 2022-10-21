@@ -11,7 +11,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 - 🌱 I’m currently learning Containerization with Docker 
 - 👯 I’m looking to collaborate on CI/CD 
 - 🤔 I’m looking for help with Database Setup and Configuration 
-- 💬 Ask me about Configuration Management Cloud, Security and Infrastructure Provisioning 
+- 💬 Ask me about Configuration Management, Cloud Security and Infrastructure Provisioning 
 - 📫 How to reach me: michaelagbia1990@outlook.com 
 - 😄 Pronouns: Him/he 
 - ⚡ Fun fact: I am a Student of Altschool Africa and also ALX
