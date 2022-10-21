@@ -20,7 +20,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 
 
-![Figma](https://img.shields.io/badge/docker-%#384d54?style=for-the-badge&logo=docker&logoColor=white) 
+![Figma](https://img.shields.io/badge/docker-%CadetBlue?style=for-the-badge&logo=docker&logoColor=white) 
 
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white
 
