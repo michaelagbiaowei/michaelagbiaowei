@@ -24,13 +24,20 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&count_private=true)  
+ ## Stats.
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Michael github stats" /></p>
 
-> <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="Tolulope05" /></p>
+<br/>
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei)  
 
-![Profile views](https://gpvc.arturio.dev/michaelagbiaowei)  
+> <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+ 
 <!--
 **michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
