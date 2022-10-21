@@ -24,7 +24,8 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
  ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmichaelagbiaow2)](https://twitter.com/michaelagbiaow2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
+
 
 <hr>
 <br>
@@ -33,22 +34,19 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 Name | Badges
 --- | --- 
 **Languages**  |  ![Python](https://img.shields.io/badge/Python-%230175C2.svg?style=for-the-badge&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-**Operating Systems** |  ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=Linux&logoColor=white) <img src="https://img.shields.io/badge/Windows-1572B6?style=for-the-badge&logo=windows&logoColor=white" />
+**Server Administration** |  ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=Linux&logoColor=white) <img src="https://img.shields.io/badge/Windows-1572B6?style=for-the-badge&logo=windows&logoColor=white" />
 **Databases**  |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 **Web Servers** |  ![Apache2](https://img.shields.io/badge/apache-%23F24E1E.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%234ea94b.svg?style=for-the-badge&logo=nginx&logoColor=white)
 **Configuration Management** | ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible&logoColor=white)
 **Containers and Containeriztion** | ![Docker](https://img.shields.io/badge/docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%230175C2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 **Infrastructure Provisiong** | ![Terraform](https://img.shields.io/badge/Terraform-%23430098.svg?style=for-the-badge&logo=terraform&logoColor=white)
-**CI/CD Build Tools**   | <img src="https://img.shields.io/badge/Jenkins-20232A?style=for-the-badge&logo=jenkins&logoColor=61DAFB" /> ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**CI/CD Build Tools**   | ![Jenkins](https://img.shields.io/badge/Jekins-fff?style=for-the-badge&logo=jekins&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Monitoring and Logging**   | ![Zabbix](https://img.shields.io/badge/Zabbix-ff0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fff?style=for-the-badge&logo=elasticsearch&logoColor=black) 
+**Cloud Services** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%23FF9900.svg?style=for-the-badge&logo=GCP&logoColor=white)
+
 </p> 
 
 <hr>
-
-
-
-
-
-
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -58,16 +56,13 @@ Name | Badges
 
 ### 👔 Soft skills
 
-✅ Good communication skills.
+✅ Good communication skills
 
 ✅ Leadership
 
 ✅ Teamwork
 
-
-
 <hr>
-
 
 ## ❤ Views and Followers.
 
