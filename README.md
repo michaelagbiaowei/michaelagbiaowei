@@ -24,6 +24,22 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 👔 Soft skills
+
+✅ Good communication skills.
+
+✅ Leadership
+
+✅ Teamwork
+
+✅ Meet tight deadlines
+
+
+
+<hr>
+
+
 ## ❤ Views and Followers.
 
 <a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
