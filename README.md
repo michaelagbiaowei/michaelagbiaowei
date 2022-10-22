@@ -1,4 +1,8 @@
-## Hi there 👋, I am Michael
+![Header](https://blog.bit.ai/wp-content/uploads/2020/04/How-To-Create-Partnership-Marketing-Plan-Blog-Banner-585x195.png)
+
+<h1 align="center">Hi there 👋, I am Michael</h1>
+<h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
+
 
 #### Cloud DevSecOps Engineer
 
