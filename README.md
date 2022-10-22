@@ -3,9 +3,6 @@
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 
-
-#### Cloud DevSecOps Engineer
-
 I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enthusiastic about Cloud Computing and Security.
 
 I really enjoy learning DevOps Configuration Management tools like Ansible.
