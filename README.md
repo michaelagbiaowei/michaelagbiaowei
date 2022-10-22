@@ -7,7 +7,7 @@ I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enth
 
 I really enjoy learning DevOps Configuration Management tools like Ansible.
 
-In addition, I also love Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools Terraform in general.
+In addition, I also love Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools like Terraform and Version Control tools in general.
 
 Furthermore, I am passionate about CI/CD Build tools like Jenkins.
 
@@ -19,7 +19,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins.
 - 🌱 I’m currently learning Containerization with Docker 
 - 👯 I’m looking to collaborate on CI/CD 
 - 🤔 I’m looking for help with Database Setup and Configuration 
-- 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Logging and Monitoring
+- 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
 - ⚡ Fun fact: I am a Student of Altschool Africa and also ALX
@@ -42,6 +42,7 @@ Name | Badges
 --- | --- 
 **Languages**  |  ![Python](https://img.shields.io/badge/Python-%230175C2.svg?style=for-the-badge&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 **Server Administration** |  ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=Linux&logoColor=white) <img src="https://img.shields.io/badge/Windows-1572B6?style=for-the-badge&logo=windows&logoColor=white" />
+**Version Control** |  ![Git Bash](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) 
 **Databases**  |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 **Web Servers** |  ![Apache2](https://img.shields.io/badge/apache-%23F24E1E.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%234ea94b.svg?style=for-the-badge&logo=nginx&logoColor=white)
 **Configuration Management** | ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible&logoColor=white) ![Puppet](https://img.shields.io/badge/Puppet-fff?style=for-the-badge&logo=Puppet&logoColor=yellow)
