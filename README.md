@@ -1,4 +1,4 @@
-<img align= "center" width="400px" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/header.png">
+<img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/header.png">
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
