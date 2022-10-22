@@ -1,4 +1,4 @@
-![Header](https://blog.bit.ai/wp-content/uploads/2020/04/How-To-Create-Partnership-Marketing-Plan-Blog-Banner-585x195.png)
+<img align="center" style="with:400px"src="https://blog.bit.ai/wp-content/uploads/2020/04/How-To-Create-Partnership-Marketing-Plan-Blog-Banner-585x195.png"
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
