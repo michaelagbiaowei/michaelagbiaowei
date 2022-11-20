@@ -1,4 +1,4 @@
-<img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/header.png">
+<img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/header.png">
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
@@ -13,7 +13,7 @@ Furthermore, I am passionate about CI/CD Build tools like Jenkins.
 
 
 
-<img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Semester-Project/images/giphy.gif">
+<img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif">
 
 - 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
 - 🌱 I’m currently learning Containerization with Docker 
