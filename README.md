@@ -92,7 +92,7 @@ Name | Badges
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Michael github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="Tolulope05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="michaelagbiaowei" /></p>
 <br/>
 
 
