@@ -5,13 +5,11 @@
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 
-I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enthusiastic about Cloud Computing and Security.
+Proactive, motivated, and dedicated professional transitioning from Biological Science into Cloud Industry as a DevOps Engineer.
 
-I really enjoy learning DevOps Configuration Management tools like Ansible.
-
-In addition, I also love Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools like Terraform and Version Control tools in general.
-
-Furthermore, I am passionate about CI/CD Build tools like Jenkins.
+I have experience in Configuration Management tools like Ansible and I am passionate about CI/CD 
+Build tools like Jenkins. I aspire to get to the pinnacle of Cloud Computing and am eager to 
+contribute to the team's success through attentiveness and excellent organizational skills.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 <!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
