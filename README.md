@@ -23,7 +23,6 @@ contribute to the team's success through attentiveness and excellent organizatio
 - 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
 - ⚡ Fun fact: I am a Student of Altschool Africa and ALX
-- ⚡ Fun fact: I am also currently enrolled in the ALX-T Udacity Cloud DevOps Nanodegree Program
 
 <hr>
 <br>
