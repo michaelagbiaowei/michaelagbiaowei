@@ -11,10 +11,10 @@ I am currently a student of AltSchool Africa, Cloud DevOps Engineering. I have e
 <!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
 <!-- <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif"> -->
 
-- 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
-- 🌱 I’m currently learning Containerization with Docker 
-- 👯 I’m looking to collaborate on CI/CD 
-- 🤔 I’m looking for help with Database Setup and Configuration 
+- 🔭 I’m currently working on Giving a django Web Application Auto Deploy Superpowers
+- 🌱 I’m currently learning Microservices with Kubernetes
+- 👯 I’m looking to collaborate on CI/CD Projects
+- 🤔 I’m looking for help with Laravel Framworks 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
