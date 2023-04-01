@@ -32,6 +32,8 @@ A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently 
 <hr>
 <br>
 
+<div align="center">
+
 ### 🛠 Cloud DevSecOps Computing Tools
 
 Name | Badges
@@ -49,6 +51,8 @@ Name | Badges
 **Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-fff?style=for-the-badge&logo=Google%20Cloud&logoColor=red) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230175C2.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
 </p> 
+
+</div>
 
 <hr>
 
