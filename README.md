@@ -79,9 +79,6 @@ Name | Badges
 </a>
 
 ----
-Credit: (https://github.com/michaelagbiaowei)
-
-Last Edited on: 01/04/2023
 
 ### Trophys
 
@@ -101,10 +98,10 @@ Last Edited on: 01/04/2023
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
+<!-- <a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=michaelagbiaowei">
 </a>
-<a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 
  <br>
