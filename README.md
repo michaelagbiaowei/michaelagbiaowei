@@ -18,8 +18,6 @@
 A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
-<!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
-<!-- <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif"> -->
 
 - 🔭 I’m currently working on Giving a django Web Application Auto Deploy Superpowers
 - 🌱 I’m currently learning Microservices with Kubernetes
@@ -37,6 +35,18 @@ A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
+
+<h2 align="center"> Contact: </h2>
+  
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/maiempire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmichaelagbiaowei" height="30" width="40" /></a>
+    
+<a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40"/></a>
+    
+<a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>
+
+</div>
 
 
 <hr>
@@ -66,7 +76,6 @@ Name | Badges
 
 <hr>
 
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
 
 <h2 align="center"> Statistics: </h2>
 
