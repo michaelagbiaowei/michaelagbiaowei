@@ -13,7 +13,7 @@
 </a>
 <a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- 👨‍💻 Check out my <a href="https://github.com/EkaAbashidze?tab=repositories"><b>repositories</b></a> for all of my projects
+## **- 👨‍💻 Check out my <a href="https://github.com/michaelagbiaowei?tab=repositories"><b>repositories</b></a> for all of my projects**
 
 <br/>
 <br/>
