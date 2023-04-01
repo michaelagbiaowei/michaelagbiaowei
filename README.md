@@ -13,6 +13,8 @@
 </a>
 <a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a>
 
+- 👨‍💻 Check out my <a href="https://github.com/EkaAbashidze?tab=repositories"><b>repositories</b></a> for all of my projects
+
 <br/>
 <br/>
 A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
