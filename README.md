@@ -4,7 +4,15 @@
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
+<br/>
+## ❤ Views and Followers.
 
+<a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=michaelagbiaowei">
+</a>
+<a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
 A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
@@ -95,29 +103,6 @@ Name | Badges
 ✅ Teamwork
 
 <hr>
-
-## ❤ Views and Followers.
-
-<!-- <a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=michaelagbiaowei">
-</a>
-<a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-
- <br>
-
-
- <!--## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Michael github stats" /></p>--!>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="michaelagbiaowei" /></p>
-<br/>
-
-
-> <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
  
 <!--
