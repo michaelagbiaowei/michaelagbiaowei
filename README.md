@@ -36,18 +36,6 @@ A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
 
-<h2 align="center"> Contact: </h2>
-  
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/maiempire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmichaelagbiaowei" height="30" width="40" /></a>
-    
-<a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40"/></a>
-    
-<a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>
-
-</div>
-
 
 <hr>
 <br>
