@@ -5,7 +5,8 @@
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 <br/>
-## ❤ Views and Followers.
+
+##❤ Views and Followers.
 
 <a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=michaelagbiaowei">
