@@ -1,5 +1,3 @@
-<!-- <img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/Mini-Project/images/header.png"> -->
-
 <img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
@@ -107,7 +105,7 @@ Name | Badges
 <hr>
 
  ----
-## **<a href="https://github.com/michaelagbiaowei"><b>Michael</b></a>**
+## ** Credits <a href="https://github.com/michaelagbiaowei"><b>Michael</b></a>**
 
 Last Edited on: 27/03/2023
 <!--
