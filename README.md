@@ -102,8 +102,6 @@ Name | Badges
 
 ✅ Teamwork
 
-<hr>
-
  ----
 ## **Credits: <a href="https://www.linkedin.com/in/maiempire/"><b>Michael Agbiaowei</b></a>**
 
