@@ -105,7 +105,7 @@ Name | Badges
 <hr>
 
  ----
-## ** Credits <a href="https://github.com/michaelagbiaowei"><b>Michael</b></a>**
+## **Credits: <a href="https://github.com/michaelagbiaowei"><b>Michael</b></a>**
 
 Last Edited on: 27/03/2023
 <!--
