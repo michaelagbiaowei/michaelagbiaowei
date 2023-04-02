@@ -107,7 +107,8 @@ Name | Badges
 <hr>
 
  ----
-Credit: ![Michael](https://github.com/michaelagbiaowei)
+## **<a href="https://github.com/michaelagbiaowei"><b>Michael</b></a>**
+
 Last Edited on: 27/03/2023
 <!--
 **michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
