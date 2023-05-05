@@ -19,8 +19,8 @@ A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently 
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on Giving a django Web Application Auto Deploy Superpowers
-- 🌱 I’m currently learning Microservices with Kubernetes
+- 🔭 I’m currently working on Provisiong IT Infrastructure using Python Boto3
+- 🌱 I’m currently learng IT Infrastructure and System Administration
 - 👯 I’m looking to collaborate on CI/CD Projects
 - 🤔 I’m looking for help with Laravel Framworks 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
