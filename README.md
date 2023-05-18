@@ -1,7 +1,7 @@
 <img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
-<h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
+<h3 align="center">A passionate Cloud DevOps Engineer. </h3>
 <br/>
 
 ## **❤ Views and Followers.**
