@@ -15,7 +15,7 @@
 #
 <br/>
 <br/>
-I possess extensive expertise in utilizing Cloud-based platforms such as AWS, Azure, and GCP, alongside Configuration Management tools like Ansible. Furthermore, I hold a strong passion for CI/CD Build tools like Jenkins, Containerization tools including Docker and Kubernetes, as well as Infrastructure as Code tools such as Terraform and CloudFormation. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities.
+I possess extensive expertise in utilizing Cloud-based platforms such as AWS, alongside Configuration Management tools like Ansible. Furthermore, I hold a strong passion for CI/CD tools like circleCI, Containerization tools including Docker and Kubernetes, as well as Infrastructure as Code tools such as Terraform and CloudFormation. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
