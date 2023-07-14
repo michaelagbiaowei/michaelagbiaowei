@@ -15,18 +15,18 @@
 #
 <br/>
 <br/>
-A recent graduate of Udacity Cloud DevOps Engineering Nano Degree and currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
+I possess extensive expertise in utilizing Cloud-based platforms such as AWS, Azure, and GCP, alongside Configuration Management tools like Ansible. Furthermore, I hold a strong passion for CI/CD Build tools like Jenkins, Containerization tools including Docker and Kubernetes, as well as Infrastructure as Code tools such as Terraform and CloudFormation. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on Provisiong IT Infrastructure using Python Boto3
-- 🌱 I’m currently learng IT Infrastructure and System Administration
+- 🔭 I’m currently scripting a CI/CD pipeline that deploys a WordPress application
+- 🌱 I’m currently learning IT Infrastructure and System Administration
 - 👯 I’m looking to collaborate on CI/CD Projects
-- 🤔 I’m looking for help with Laravel Framworks 
+- 🤔 I’m looking for help with Laravel Framework 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I am a Student of Altschool Africa and ALX
+- ⚡ Fun fact: I was a Student of AltSchool Africa and ALT-Udacity
 
 <hr>
 <br>
