@@ -15,7 +15,7 @@
 #
 <br/>
 <br/>
-I possess extensive expertise in utilizing Cloud-based platforms such as AWS, alongside Configuration Management tools like Ansible. Furthermore, I hold a strong passion for CI/CD tools like circleCI, Containerization tools including Docker and Kubernetes, as well as Infrastructure as Code tools such as Terraform and CloudFormation. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities.
+I possess extensive expertise in utilizing Cloud-based platforms such as AWS, alongside Continuous Integration Servers, Infrastructure Automation, Source Code Management, Container Management, ChatOps, Monitoring, Logging and Alerting tools. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
@@ -88,7 +88,7 @@ Name | Badges
 
 ----
 
-### Trophys
+### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=michaelagbiaowei)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -105,7 +105,7 @@ Name | Badges
  ----
 ## **Credits: <a href="https://www.linkedin.com/in/maiempire/"><b>Michael Agbiaowei</b></a>**
 
-Last Edited on: 18/05/2023
+Last Edited on: 17/07/2023
 <!--
 **michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
