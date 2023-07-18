@@ -15,7 +15,8 @@
 #
 <br/>
 <br/>
-I'm a Cloud DevOps engineer with 2 years of experience in Infrastructure Automation, Container Management, and Monitoring. I'm passionate about leveraging innovative technology in Cloud Services. I'm also proud to have graduated in the top 5% of the ALX Tech program and been selected for the Gold Fellowship program at The ROOM.
+I'm a Cloud DevOps engineer with 2 years of experience in Infrastructure Automation, Container Management, and Monitoring among other related services. I'm passionate about leveraging innovative technology in Cloud Services. I'm also proud to have graduated in the top 5% of the ALX Tech program and been selected for the Gold Fellowship program at The ROOM.
+
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
