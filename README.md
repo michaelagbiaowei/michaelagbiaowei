@@ -15,8 +15,7 @@
 #
 <br/>
 <br/>
-I possess extensive expertise in utilizing Cloud-based platforms such as AWS, alongside Continuous Integration Servers, Infrastructure Automation, Source Code Management, Container Management, ChatOps, Monitoring, Logging and Alerting tools. My ultimate goal is to achieve the highest level of proficiency in Cloud Computing, and I am wholeheartedly committed to making valuable contributions to the team's accomplishments through meticulous attention to detail and exceptional organizational abilities. I'm also proud to have graduated in the top 5% of the ALX Tech program and been selected for the Gold Fellowship program at The ROOM.
-
+I'm a Cloud DevOps engineer with 2 years of experience in Infrastructure Automation, Container Management, and Monitoring. I'm passionate about leveraging innovative technology in Cloud Services. I'm also proud to have graduated in the top 5% of the ALX Tech program and been selected for the Gold Fellowship program at The ROOM.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
