@@ -1,4 +1,4 @@
-<img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
+![1500x500 Twitter Banner V1](https://github.com/michaelagbiaowei/michaelagbiaowei/assets/101793657/9fa7319e-1a52-4b42-9129-47f9ad259979)
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
 <h3 align="center">A passionate Cloud DevOps Engineer. </h3>
