@@ -27,7 +27,7 @@ I'm a Cloud DevOps engineer with 2 years of experience in Infrastructure Automat
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: michaelagbia1990@gmail.com 
 - 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I was a Student of AltSchool Africa and ALT-Udacity
+- ⚡ Fun fact: I was a Student of AltSchool Africa and ALX | Udacity
 
 <hr>
 <br>
@@ -106,7 +106,7 @@ Name | Badges
  ----
 ## **Credits: <a href="https://www.linkedin.com/in/maiempire/"><b>Michael Agbiaowei</b></a>**
 
-Last Edited on: 17/07/2023
+Last Edited on: 20/07/2023
 <!--
 **michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
