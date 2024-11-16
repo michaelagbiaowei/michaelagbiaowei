@@ -15,18 +15,17 @@
 #
 <br/>
 <br/>
-I'm a Cloud DevOps engineer with 2 years of experience in Infrastructure Automation, Container Management, and Monitoring among other related services. I'm passionate about leveraging innovative technology in Cloud Services. I'm also proud to have graduated in the top 5% of the ALX Tech program and been selected for the Gold Fellowship program at The ROOM.
+Enthusiastic Engineer with over 3 years of experience in Cloud Infrastructure Automation, proficient in DevOps and Collaboration.
 
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently scripting a CI/CD pipeline that deploys a WordPress application
-- 🌱 I’m currently learning IT Infrastructure and System Administration
+- 🔭 I’m currently scripting a CI/CD pipeline that deploys a financail application
+- 🌱 I’m currently learning Mission Control and Critical Systems
 - 👯 I’m looking to collaborate on CI/CD Projects
-- 🤔 I’m looking for help with Laravel Framework 
+- 🤔 I’m looking for help with AI Framework 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: michaelagbia1990@gmail.com 
-- 😄 Pronouns: Him/he 
 - ⚡ Fun fact: I was a Student of AltSchool Africa and ALX | Udacity
 
 <hr>
@@ -106,7 +105,7 @@ Name | Badges
  ----
 ## **Credits: <a href="https://www.linkedin.com/in/maiempire/"><b>Michael Agbiaowei</b></a>**
 
-Last Edited on: 20/07/2023
+Last Edited on: 16/11/2024
 <!--
 **michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
