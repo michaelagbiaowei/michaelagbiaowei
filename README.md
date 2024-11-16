@@ -20,7 +20,7 @@ Enthusiastic Engineer with over 3 years of experience in Cloud Infrastructure Au
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently scripting a CI/CD pipeline that deploys a financail application
+- 🔭 I’m currently scripting a CI/CD pipeline that deploys a financial application
 - 🌱 I’m currently learning Mission Control and Critical Systems
 - 👯 I’m looking to collaborate on CI/CD Projects
 - 🤔 I’m looking for help with AI Framework 
